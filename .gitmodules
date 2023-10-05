@@ -1,0 +1,3 @@
+[submodule "arlou"]
+	path = arlou
+	url = https://github.com/arlou777/arlou.git
